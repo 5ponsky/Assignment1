@@ -3,7 +3,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-class Controller implements ActionListener, MouseListener, Runnable
+class Controller implements ActionListener, MouseListener
 {
 	View view;
 	Model model;
