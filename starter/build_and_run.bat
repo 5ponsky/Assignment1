@@ -1,1 +1,1 @@
-javac Game.java
+javac Game.java Controller.java Model.java View.java
